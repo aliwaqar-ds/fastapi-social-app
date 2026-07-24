@@ -1,0 +1,17 @@
+$kind: http-request
+name: Create posts
+description: ""
+url: http://127.0.0.1:8000/posts
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"Title\" : \"Top beaches in Florida\",\r
+
+    \    \"Content\" : \"These are some fantastic beaches\",\r
+
+    \    \"rating\" : 10\r
+
+    }"
+order: 3565511392839028

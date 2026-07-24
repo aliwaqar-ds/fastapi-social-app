@@ -1,0 +1,5 @@
+$kind: http-request
+name: Delete Post
+url: http://127.0.0.1:8000/posts/1
+method: DELETE
+order: 4474944498906475
