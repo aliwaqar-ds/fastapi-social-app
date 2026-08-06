@@ -1,0 +1,6 @@
+name: 'DEV:fastapi'
+values:
+  - key: URL
+    value: ''
+  - key: JWT
+    value: ''
